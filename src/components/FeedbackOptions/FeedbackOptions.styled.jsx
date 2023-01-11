@@ -11,5 +11,4 @@ export const Button = styled.button`
     :not(:last-child){
      margin-right: 15px;   
     }
-    
 `
